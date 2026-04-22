@@ -1,0 +1,106 @@
+Protein,Ligand,Binding Affinity,Cavity Volume/Angstroms cubed 
+IRAK1,Control,-8.5,2099
+IRAK1,Control,-8.3,1449
+IRAK1,Control,-6.3,2461
+IRAK1,Control,-6.2,506
+IRAK1,Control,-5.3,482
+IRAK1,KIC-0101,-9.9,2099
+IRAK1,KIC-0101,-9.1,1449
+IRAK1,KIC-0101,-8.9,2461
+IRAK1,KIC-0101,-6.8,506
+IRAK1,KIC-0101,-6.6,482
+IRAK1,Phillygenin,-8.7,2461
+IRAK1,Phillygenin,-8.2,2099
+IRAK1,Phillygenin,-7.5,1449
+IRAK1,Phillygenin,-6.3,482
+IRAK1,Phillygenin,-5.9,506
+IRAK1,Icariiside ll,-11.4,2099
+IRAK1,Icariiside ll,-9.3,1449
+IRAK1,Icariiside ll,-8.4,2561
+IRAK1,Icariiside ll,-7.1,482
+IRAK1,Icariiside ll,-7,506
+IRAK1,EFL2,-8.3,2461
+IRAK1,EFL2,-7.4,2099
+IRAK1,EFL2,-7.4,482
+IRAK1,EFL2,-6,506
+IRAK1,EFL2,-5.7,1449
+IRAK1,Dimethyl Fumarate,-5.1,2461
+IRAK1,Dimethyl Fumarate,-5.1,2099
+IRAK1,Dimethyl Fumarate,-5,1449
+IRAK1,Dimethyl Fumarate,-4.2,506
+IRAK1,Dimethyl Fumarate,-4.1,482
+IRAK1,Vanillin,-6.5,2461
+IRAK1,Vanillin,-6.5,2099
+IRAK1,Vanillin,-6.4,1449
+IRAK1,Vanillin,-5.3,506
+IRAK1,Vanillin,-4.6,482
+IRAK4,Control,-7.6,1078
+IRAK4,Control,-7.4,1540
+IRAK4,Control,-7.1,4871
+IRAK4,Control,-5.8,678
+IRAK4,Control,-5.5,665
+IRAK4,KIC-0101,-6.1,1078
+IRAK4,KIC-0101,-6,1540
+IRAK4,KIC-0101,-5.8,4871
+IRAK4,KIC-0101,-4.7,665
+IRAK4,KIC-0101,-4.6,678
+IRAK4,Phillygenin,-8.1,4871
+IRAK4,Phillygenin,-7.4,1078
+IRAK4,Phillygenin,-7.3,1540
+IRAK4,Phillygenin,-6.6,678
+IRAK4,Phillygenin,-6.6,665
+IRAK4,Icariiside ll,-9.8,4871
+IRAK4,Icariiside ll,-8.1,1540
+IRAK4,Icariiside ll,-8,1078
+IRAK4,Icariiside ll,-6.9,678
+IRAK4,Icariiside ll,-6.7,665
+IRAK4,EFL2,-6.5,1540
+IRAK4,EFL2,-6.4,678
+IRAK4,EFL2,-6.3,4871
+IRAK4,EFL2,-6.3,1078
+IRAK4,EFL2,-5.4,665
+IRAK4,Dimethyl Fumarate,-5,1540
+IRAK4,Dimethyl Fumarate,-5,1078
+IRAK4,Dimethyl Fumarate,-4.2,4871
+IRAK4,Dimethyl Fumarate,-4,665
+IRAK4,Dimethyl Fumarate,-3.9,678
+IRAK4,Vanillin,-5.8,1078
+IRAK4,Vanillin,-5.7,1540
+IRAK4,Vanillin,-5.3,4871
+IRAK4,Vanillin,-4.9,665
+IRAK4,Vanillin,-4.7,678
+MYD88,Control,-5.7,374
+MYD88,Control,-5.5,213
+MYD88,Control,-5.2,118
+MYD88,Control,-5.1,83
+MYD88,Control,-4.4,81
+MYD88,KIC-0101,-5.1,213
+MYD88,KIC-0101,-4.8,374
+MYD88,KIC-0101,-4.5,81
+MYD88,KIC-0101,-4.1,118
+MYD88,KIC-0101,-4,83
+MYD88,Phillygenin,-6.8,213
+MYD88,Phillygenin,-6.4,374
+MYD88,Phillygenin,-6.2,118
+MYD88,Phillygenin,-6,83
+MYD88,Phillygenin,-5.8,81
+MYD88,Icariiside ll,-7.1,374
+MYD88,Icariiside ll,-6.8,213
+MYD88,Icariiside ll,-6.7,83
+MYD88,Icariiside ll,-6,81
+MYD88,Icariiside ll,-5.6,118
+MYD88,EFL2,-6.5,83
+MYD88,EFL2,-6.2,213
+MYD88,EFL2,-6.2,81
+MYD88,EFL2,-6,374
+MYD88,EFL2,-5.7,118
+MYD88,Dimethyl Fumarate,-4.1,81
+MYD88,Dimethyl Fumarate,-4,213
+MYD88,Dimethyl Fumarate,-3.8,374
+MYD88,Dimethyl Fumarate,-3.5,118
+MYD88,Dimethyl Fumarate,-3.4,83
+MYD88,Vanillin,-4.6,374
+MYD88,Vanillin,-4.6,81
+MYD88,Vanillin,-4.5,213
+MYD88,Vanillin,-4.5,118
+MYD88,Vanillin,-4.2,83
